@@ -1,0 +1,16 @@
+{
+    "name": "programie/custom-symfony-console-table",
+    "description": "A customised version of the Table class of the Symfony Console component",
+    "type": "library",
+    "require": {
+        "symfony/console": "^3.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Michael Wieland",
+            "email": "custom-symfony-console-table@selfcoders.com",
+            "homepage": "https://selfcoders.com"
+        }
+    ]
+}
