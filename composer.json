@@ -1,6 +1,6 @@
 {
-    "name": "programie/custom-symfony-console-table",
-    "description": "A customised version of the Table class of the Symfony Console component",
+    "name": "programie/phptable",
+    "description": "A library to display data in a table",
     "type": "library",
     "require": {
         "symfony/console": "^3.2"
@@ -9,7 +9,7 @@
     "authors": [
         {
             "name": "Michael Wieland",
-            "email": "custom-symfony-console-table@selfcoders.com",
+            "email": "phptable@selfcoders.com",
             "homepage": "https://selfcoders.com"
         }
     ]

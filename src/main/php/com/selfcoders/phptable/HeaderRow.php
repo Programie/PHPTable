@@ -1,5 +1,5 @@
 <?php
-namespace com\selfcoders\customsymfonyconsoletable;
+namespace com\selfcoders\phptable;
 
 class HeaderRow extends Row
 {
