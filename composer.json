@@ -12,5 +12,10 @@
             "email": "phptable@selfcoders.com",
             "homepage": "https://selfcoders.com"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            "": "src/main/php"
+        }
+    }
 }
